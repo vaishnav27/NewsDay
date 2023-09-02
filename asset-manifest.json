@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NewsDay/static/css/main.073c9b0a.css",
+    "main.js": "/NewsDay/static/js/main.c01e83a7.js",
+    "static/js/787.1e93fbe3.chunk.js": "/NewsDay/static/js/787.1e93fbe3.chunk.js",
+    "index.html": "/NewsDay/index.html",
+    "main.073c9b0a.css.map": "/NewsDay/static/css/main.073c9b0a.css.map",
+    "main.c01e83a7.js.map": "/NewsDay/static/js/main.c01e83a7.js.map",
+    "787.1e93fbe3.chunk.js.map": "/NewsDay/static/js/787.1e93fbe3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c01e83a7.js"
+  ]
+}
